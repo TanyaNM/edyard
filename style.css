@@ -23,10 +23,10 @@ footer
 {
     background-color: black;
     color: white;
-    font-size: large;
+    font-size: 15px;
     font-family: system-ui;
     text-align: center;
-    line-height: 1.5;
+    line-height: 1.7;
 }
 footer img{
     border: solid black;
